@@ -10,4 +10,6 @@
 .bg{
     background-image: linear-gradient(to left bottom, #6edcd9, #46e5c5, #49eba0, #74ee6a, #a8eb12);
     border-radius: 0px 0px 200px 20px;
+    height: 85vh;
+    width: 100vw;
 }

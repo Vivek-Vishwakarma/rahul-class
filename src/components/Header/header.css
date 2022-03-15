@@ -2,7 +2,6 @@
   display: flex;
   margin: 20px 15%;
   flex-wrap: wrap;
-  height: 80vh;
 }
 .headerText {
   margin-top: 15%;
