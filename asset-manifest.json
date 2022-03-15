@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rahul-class/static/css/main.7c9bcd2a.css",
+    "main.js": "/rahul-class/static/js/main.53fe8492.js",
+    "static/media/header.svg": "/rahul-class/static/media/header.4e37b0409cf5deb220cf1ecaea9486de.svg",
+    "index.html": "/rahul-class/index.html",
+    "main.7c9bcd2a.css.map": "/rahul-class/static/css/main.7c9bcd2a.css.map",
+    "main.53fe8492.js.map": "/rahul-class/static/js/main.53fe8492.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c9bcd2a.css",
+    "static/js/main.53fe8492.js"
+  ]
+}
