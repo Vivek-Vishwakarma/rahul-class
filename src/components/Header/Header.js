@@ -14,7 +14,7 @@ const Header = () => {
         <Button text="Join Now" />
       </div>
       <div className="headerImage">
-        <img src={heroImage} alt="Header" />
+        <img className="headerImg" src={heroImage} alt="Header" />
       </div>
     </header>
     </>

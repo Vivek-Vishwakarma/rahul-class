@@ -19,3 +19,36 @@
     cursor: pointer;
     font-size: 1.75rem;
 }
+.hamburger{
+    display: none;
+    height: 40px;
+    width: 40px;
+}
+@media only screen and (max-width: 1030px) {
+    .hamburger{
+        display: block;
+    }
+    .ulNav{
+        z-index: 100;
+        flex-direction: column;
+        left: -100%;
+        text-align: center;
+        position: absolute;
+        transition: all 0.5s ease;
+        background: hsl(0, 0%, 10%);
+        color: white;
+        width: 100vw;
+    }
+    .new{
+        left: 0%;
+    }
+    .logoName{
+        font-size: 1.2rem;
+    }
+    .navbar{
+        padding: 10px 20px;
+    }
+    .navLinks{
+        margin: 20px;
+    }
+}
