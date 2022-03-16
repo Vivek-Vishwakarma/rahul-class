@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/rahul-class/static/css/main.7c9bcd2a.css",
-    "main.js": "/rahul-class/static/js/main.53fe8492.js",
+    "main.css": "/rahul-class/static/css/main.e2c644b3.css",
+    "main.js": "/rahul-class/static/js/main.4fb8cb58.js",
     "static/media/header.svg": "/rahul-class/static/media/header.4e37b0409cf5deb220cf1ecaea9486de.svg",
     "index.html": "/rahul-class/index.html",
-    "main.7c9bcd2a.css.map": "/rahul-class/static/css/main.7c9bcd2a.css.map",
-    "main.53fe8492.js.map": "/rahul-class/static/js/main.53fe8492.js.map"
+    "main.e2c644b3.css.map": "/rahul-class/static/css/main.e2c644b3.css.map",
+    "main.4fb8cb58.js.map": "/rahul-class/static/js/main.4fb8cb58.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c9bcd2a.css",
-    "static/js/main.53fe8492.js"
+    "static/css/main.e2c644b3.css",
+    "static/js/main.4fb8cb58.js"
   ]
 }
