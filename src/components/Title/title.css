@@ -1,0 +1,31 @@
+.title {
+  background: #121fcf;
+  background: -webkit-linear-gradient(to right, #121fcf 0%, #cf1512 100%);
+  background: -moz-linear-gradient(to right, #121fcf 0%, #cf1512 100%);
+  background: linear-gradient(to right, #121fcf 0%, #cf1512 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 2rem;
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  position: relative;
+}
+.title::after {
+  content: "";
+  background: rgb(251, 0, 0);
+  background: linear-gradient(
+    90deg,
+    rgba(251, 0, 0, 1) 28%,
+    rgba(98, 98, 255, 1) 65%,
+    rgba(0, 213, 255, 1) 100%
+  );
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  width: 20%;
+  border-radius: 14px;
+  bottom: -10px;
+  height: 8px;
+}

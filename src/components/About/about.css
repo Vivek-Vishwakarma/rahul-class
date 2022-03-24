@@ -1,0 +1,38 @@
+.pTag{
+    line-height: 1.5;
+    font-size: 1.1rem;
+    text-align: center;
+    font-weight: bold;
+    width: 65%;
+    margin: 0px 20px;
+}
+.aboutSection{
+    margin: 30px 20%;
+}
+.aboutImg{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+}
+.aboutFlex{
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width: 1030px) {
+    .pTag{
+        width: 95%;
+        margin: 10px;
+    }
+    .aboutSection{
+        margin: 30px 5%;
+    }
+    .aboutImg{
+        height: 200px;
+        width: 200px;
+    }
+}

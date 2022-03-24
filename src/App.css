@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 
 * {
   margin: 0;
@@ -17,8 +18,10 @@
     #a8eb12
   );
   border-radius: 0px 0px 200px 20px;
-  height: 80vh;
-  width: 100vw;
+  height: 70vh;
+  width: 98.9vw;
+  position: absolute;
+  z-index: -100;
 }
 @media only screen and (max-width: 1030px) {
   .bg {
